@@ -1,0 +1,10 @@
+name = "Optimisers"
+uuid = "0ff1809c-3e4c-4ca5-b977-c106a54eeb78"
+authors = ["Marcell <havlikmarcell@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Aritmetics = "0a23df8d-f2c1-4279-8fda-c50fc59cc48f"
+Boilerplate = "fe7df2fb-dcb5-4bf9-996b-0af1f7856ff2"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Pythonish = "2a8daa0e-e2c2-413c-8706-f0ea396f2d19"
