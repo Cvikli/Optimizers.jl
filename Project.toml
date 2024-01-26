@@ -1,5 +1,5 @@
-name = "Optimisers"
-uuid = "0ff1809c-3e4c-4ca5-b977-c106a54eeb78"
+name = "Optimizers"
+uuid = "65b9484a-7370-4b19-bdf7-cfd6e22b2eed"
 authors = ["Marcell <havlikmarcell@gmail.com>"]
 version = "0.1.0"
 

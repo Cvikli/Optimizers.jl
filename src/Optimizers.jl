@@ -1,4 +1,4 @@
-module Optimisers
+module Optimizers
 
 
 using Aritmetics: ⌂, ϵ64, rel_stable_diff
@@ -865,4 +865,4 @@ function apply!(o::ClipNorm, x, Δ, idxs)
     end
     return Δ
 end
-end # module Optimisers
+end # module Optimizers
