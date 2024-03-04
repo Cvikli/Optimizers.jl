@@ -3,7 +3,7 @@
 module CrazyOptModule
 
 using Boilerplate: @display, @typeof, @sizes
-using Aritmetics: ⌂, mean
+using Arithmetics: ⌂, mean
 using HwAllocator: move2hw
 using Pythonish
 

@@ -1,7 +1,7 @@
 module Optimizers
 
 
-using Aritmetics: ⌂, ϵ64, rel_stable_diff
+using Arithmetics: ⌂, ϵ64, rel_stable_diff
 using Pythonish
 using Boilerplate
 using CUDA

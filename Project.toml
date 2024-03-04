@@ -4,7 +4,8 @@ authors = ["Marcell <havlikmarcell@gmail.com>"]
 version = "0.1.0"
 
 [deps]
-Aritmetics = "0a23df8d-f2c1-4279-8fda-c50fc59cc48f"
+Arithmetics = "a89116e9-c42f-4f5a-a91e-d499801a494f"
 Boilerplate = "fe7df2fb-dcb5-4bf9-996b-0af1f7856ff2"
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+HwAllocator = "19a61fc7-6e8e-4b4d-b138-dadc1942ce65"
 Pythonish = "2a8daa0e-e2c2-413c-8706-f0ea396f2d19"
